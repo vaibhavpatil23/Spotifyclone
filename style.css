@@ -64,9 +64,12 @@ nav ul li{
     margin-top: 14px;
 }
 .icons img{
+    
     cursor: pointer;
     height: 50px;
-    width: 50px;
+    width: 51px;
+    margin: -6px 3px;
+
 }
 #myprogressbar{
     width: 80vw;
