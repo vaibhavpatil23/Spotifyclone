@@ -63,13 +63,17 @@ nav ul li{
 .icons{
     margin-top: 14px;
 }
-.icons img{
+.icons img {
     
     cursor: pointer;
     height: 50px;
     width: 51px;
     margin: -6px 3px;
 
+}
+.icons i{
+    
+    cursor: pointer;
 }
 #myprogressbar{
     width: 80vw;
